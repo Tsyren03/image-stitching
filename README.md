@@ -28,9 +28,9 @@ Perspective warping naturally creates irregular black backgrounds (empty space) 
 *(Real photos taken with overlapping regions)*
 
 **Left View:**
-<img width="500" height="600" alt="img2" src="https://github.com/user-attachments/assets/d8e2982a-984e-4a4f-8057-47d60d9a3be7" />
-**Center View:**
 <img width="500" height="600" alt="img1" src="https://github.com/user-attachments/assets/38c6e847-b5de-49c6-8fcd-ecbad7cf4f78" />
+**Center View:**
+<img width="500" height="600" alt="img2" src="https://github.com/user-attachments/assets/d8e2982a-984e-4a4f-8057-47d60d9a3be7" />
 **Right View:**
 <img width="500" height="600" alt="img3" src="https://github.com/user-attachments/assets/5d858c4a-82c5-4d88-b73c-3bea9d5b94ba" />
 

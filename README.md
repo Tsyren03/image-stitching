@@ -12,8 +12,7 @@ The stitching process follows these core steps:
 3. **Homography Estimation:** Applies the `RANSAC` algorithm to reject outliers and compute the perspective transformation matrix (Homography) between the images.
 4. **Warping:** Uses `cv2.warpPerspective` to project the images onto a common planar canvas.
 
-## ✨ Extra Features<img width="1000" height="1333" alt="img2" src="https://github.com/user-attachments/assets/735e0633-bd47-41ce-ae1a-65301e2316de" />
-<img width="1000" height="1333" alt="img1" src="https://github.com/user-attachments/assets/4df69ad0-ab73-47af-be4e-77a388d127a3" />
+## ✨ Extra Features
 
 To improve the final output quality, I implemented **two custom post-processing features**:
 

@@ -29,13 +29,13 @@ Perspective warping naturally creates irregular black backgrounds (empty space) 
 *(Real photos taken with overlapping regions)*
 
 **Left View:**
-<img width="1000" height="1333" alt="img2" src="https://github.com/user-attachments/assets/d8e2982a-984e-4a4f-8057-47d60d9a3be7" />
+<img width="500" height="600" alt="img2" src="https://github.com/user-attachments/assets/d8e2982a-984e-4a4f-8057-47d60d9a3be7" />
 **Center View:**
-<img width="1000" height="1333" alt="img1" src="https://github.com/user-attachments/assets/38c6e847-b5de-49c6-8fcd-ecbad7cf4f78" />
+<img width="500" height="600" alt="img1" src="https://github.com/user-attachments/assets/38c6e847-b5de-49c6-8fcd-ecbad7cf4f78" />
 **Right View:**
-<img width="1000" height="1333" alt="img3" src="https://github.com/user-attachments/assets/5d858c4a-82c5-4d88-b73c-3bea9d5b94ba" />
+<img width="500" height="600" alt="img3" src="https://github.com/user-attachments/assets/5d858c4a-82c5-4d88-b73c-3bea9d5b94ba" />
 
 ### 2. Final Output: Stitched, Blended, & Auto-Cropped Panorama
 The images were successfully stitched. The seams were smoothed using alpha blending, and the irregular black borders created by perspective warping were automatically detected and removed.
 
-<img width="4640" height="3968" alt="final_panorama" src="https://github.com/user-attachments/assets/739adaf8-3034-4ab0-b1db-d13672c7cde9" />
+<img width="2300" height="2000" alt="final_panorama" src="https://github.com/user-attachments/assets/739adaf8-3034-4ab0-b1db-d13672c7cde9" />

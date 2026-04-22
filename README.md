@@ -15,7 +15,7 @@ The stitching process follows these core steps:
 ## ✨ Extra Feature: Automatic Image Cutting (Auto-Cropping)
 When taking real panoramic photos, camera rotation naturally causes perspective warping. When these images are stitched onto a flat canvas, irregular black backgrounds (empty space) naturally appear around the stitched image. 
 
-As my **extra feature (5 points)**, I implemented an automatic image cutting function (`crop_black_borders()`) that acts as a post-processing step. 
+I implemented an automatic image cutting function (`crop_black_borders()`) that acts as a post-processing step. 
 * **How it works:** It converts the raw stitched image to grayscale, applies binary thresholding to isolate the non-black regions, and uses `cv2.findContours` to detect the bounding box of the actual stitched content. 
 * **Result:** It automatically crops out the ugly black borders, resulting in a clean, perfectly rectangular final panoramic image.
 
